@@ -11,7 +11,8 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| Paris, France | 5th - 8th Feb 2014 | [dotSwift](http://www.dotswift.io) |
+| Prague | January 2015 | Apiary |
+| Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
 | Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
 
 ### Past
