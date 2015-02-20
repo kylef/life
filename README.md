@@ -11,14 +11,15 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| Prague | January 2015 | Apiary |
-| Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
-| Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
+| San Francisco  | April/May 2015 | Apiary |
 
 ### Past
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
+| Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
+| Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
+| Prague | January 2015 | Apiary |
 | Paris, France | 1st - 4th Dec 2014 | [APIDays](http://www.apidays.io) |
 | Warsaw, Poland | 27th - 29th Nov 2014 | [SwiftWarsaw](http://swiftwarsaw.com) |
 | Prague | 16th - 26th Oct 2014 | Apiary |
