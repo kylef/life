@@ -11,7 +11,7 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| San Francisco  | April/May 2015 | Apiary |
+| San Francisco  | 10th - 27th April 2015 | Apiary |
 
 ### Past
 
