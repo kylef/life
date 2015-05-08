@@ -11,12 +11,13 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| San Francisco  | 10th - 27th April 2015 | Apiary |
+| San Francisco  | June 2015 | WWDC / [AltConf](http://altconf.com) |
 
 ### Past
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
+| San Francisco  | 10th - 27th April 2015 | Apiary |
 | Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
 | Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
 | Prague | January 2015 | Apiary |
