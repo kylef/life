@@ -11,7 +11,9 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| San Francisco  | June 2015 | WWDC / [AltConf](http://altconf.com) |
+| San Francisco | June 2015 | WWDC / [AltConf](http://altconf.com) |
+| Prague | July 2015 | Apiary |
+| Denver CO, 🇺🇸 | 14th-19th August 2015 | [360 iDev](http://360idev.com) |
 
 ### Past
 
