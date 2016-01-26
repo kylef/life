@@ -11,14 +11,16 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| San Francisco | June 2015 | WWDC / [AltConf](http://altconf.com) |
-| Prague | July 2015 | Apiary |
-| Denver CO, 🇺🇸 | 14th-19th August 2015 | [360 iDev](http://360idev.com) |
+| Paris, France | 29th - 31st January 2016 | [dotSwift](http://www.dotswift.io) |
 
 ### Past
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
+| Bath, England | January 2016 | - |
+| Denver CO, 🇺🇸 | 14th-19th August 2015 | [360 iDev](http://360idev.com) |
+| Prague | July 2015 | Apiary |
+| San Francisco | June 2015 | WWDC / [AltConf](http://altconf.com) |
 | San Francisco  | 10th - 27th April 2015 | Apiary |
 | Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
 | Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
