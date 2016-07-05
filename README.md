@@ -11,17 +11,23 @@ This contains the most up to date record of my travel plans.
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
-| Paris, France | 29th - 31st January 2016 | [dotSwift](http://www.dotswift.io) |
 
 ### Past
 
 | Location | Date | Reason |
 |----------|:----:|:------:|
+| Utrecht, Nederlands | 9th - 10th July 2016 | |
+| Barcelona, Spain | 8th July 2016 | [CMD+U](http://www.cmduconf.com) |
+| Bath, England | June 2016 | - |
+| San Francisco | June 2016 | - |
+| Warsaw, Poland | 21st - 23rd April 2016 | [MCE](http://2016.mceconf.com) |
+| Paris, France | 17th - 19th April 2016 | - |
+| Paris, France | 29th - 31st January 2016 | [dotSwift](http://www.dotswift.io) |
 | Bath, England | January 2016 | - |
 | Denver CO, 🇺🇸 | 14th-19th August 2015 | [360 iDev](http://360idev.com) |
 | Prague | July 2015 | Apiary |
 | San Francisco | June 2015 | WWDC / [AltConf](http://altconf.com) |
-| San Francisco  | 10th - 27th April 2015 | Apiary |
+| San Francisco | 10th - 27th April 2015 | Apiary |
 | Courchevel, France | 8th - 15th Feb 2015 | 🏂 |
 | Paris, France | 5th - 8th Feb 2015 | [dotSwift](http://www.dotswift.io) |
 | Prague | January 2015 | Apiary |
